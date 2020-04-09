@@ -1,1 +1,3 @@
-# amihantest-rust
+# practice
+
+play around with Rust
